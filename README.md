@@ -1,3 +1,3 @@
 # Cockatrice-XML-Editor
 
-Python Script in GUI wrapper to edito cards elements of XML
+Python Script in GUI wrapper to edit cards elements of XML
